@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans:300');
+#header{
+  background: #007893;
+  width: 100%;
+  height: 50px;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
+a{
+  text-decoration: none;
+  padding-left: 15px;
+}
+#header a{
+  color: #ffb300;
+  padding-left 10px;
+  height: 5px;
+  font-size: 3.0em;
+}
+body{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+p{
+  font-size: 1.5em;
+  text-align: center;
+}
