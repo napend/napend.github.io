@@ -1,0 +1,14 @@
+body{
+  font-family: 'Ubuntu', sans-serif;
+  background-image: url("../img/maze_white.png");
+}
+h1{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+a{
+  color: rgb(0, 119, 126);
+  text-decoration: none;
+}
